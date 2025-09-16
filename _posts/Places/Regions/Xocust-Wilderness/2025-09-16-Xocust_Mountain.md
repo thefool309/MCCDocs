@@ -1,6 +1,12 @@
+---
+title: The Xocust Mountain
+date: 2025_09_16
+layout: post
+---
+
 ![Xocust Mountain](Xocust-Mountains.png)
 
-The mountains that divide the tribes of [The Xocust Wilderness](Places/Regions/Xocust-Wilderness/The Xocust Wilderness.md) from [The Shimmering Sands](Places/Regions/The-Shimmering-Sands/The Shimmering Sands.md) hold one mountain taller than all the rest. This is called the Xocust Mountain. Tribes of all shapes and sizes exist along the edge of this mountain, and ever since the Tower of The Ancients was discovered, it's been a race between tribes for the artifacts contained within.
+The mountains that divide the tribes of [The Xocust Wilderness](Places/Regions/Xocust-Wilderness/The Xocust Wilderness.md) from [The Shimmering Sands](2025-09-16-The_Shimmering_Sands.md) hold one mountain taller than all the rest. This is called the Xocust Mountain. Tribes of all shapes and sizes exist along the edge of this mountain, and ever since the Tower of The Ancients was discovered, it's been a race between tribes for the artifacts contained within.
 
 ## Ecology
 
