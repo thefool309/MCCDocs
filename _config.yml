@@ -22,7 +22,7 @@ title: Terra A.D. Meatgrinder Documents
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Terra A.D. Documentation for Meat Grinder Tabletop players. 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/MCCDocs" # the subpath of your site, e.g. /blog
 url: "https://thefool309.github.io/MCCDocs/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  thefool309
