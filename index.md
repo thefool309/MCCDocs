@@ -3,7 +3,7 @@ layout: home
 title: Home
 date: 2025_09_16
 ---
-# Welcome to Terra A.D. Meatgrinder Documents
+# [Welcome to Terra A.D.]({{ site.baseurl }}/2025/09/16/Welcome_to_Terra_AD.html) Meatgrinder Documents
 
 Your go-to resource for Meat Grinder Tabletop players.
 
