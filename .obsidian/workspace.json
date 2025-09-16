@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "b529897e5e1755a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "93b3715f58e13c38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8dafe95d0a0b941",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tribes/The Curators.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Curators"
+            }
+          },
+          {
+            "id": "94cbeeed043785bd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "49940419f843e9aa",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/img/Shimmering-Sands.png"
+              },
+              "icon": "lucide-image",
+              "title": "Shimmering-Sands"
+            }
+          },
+          {
+            "id": "d4ee55aff858d491",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/Events/The Great Collapse.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Great Collapse"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "590494cb48088b13",
+    "type": "split",
+    "children": [
+      {
+        "id": "c42d2fbbbe21eb67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8852c50fa81db93a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5d1afe392f0cdf90",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d8d627b41717bc9f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f2a45299832af99b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3037fa7377e62d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "285ca46583f6217c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "6ae6fefeed78ac39",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "16b46f3840fbf862",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "904b7d24900ec30c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "94cbeeed043785bd",
+  "lastOpenFiles": [
+    "Introduction/Welcome-to-Terra-AD.md",
+    "Tribes/The Curators.md",
+    "Tribes/The Chosen Zuu.md",
+    "Tribes/The Clan Of Cog.md",
+    "History/Historical-Items/Artifacts of The Ancients.md",
+    "assets/img/multitool.jpg",
+    "History/Events/The Great Collapse.md",
+    "History/Historical-Factions/The Ancient Ones.md",
+    "Places/Regions/Xocust-Wilderness/Xocust Mountain.md",
+    "Places/Regions/Xocust-Wilderness/The Xocust Wilderness.md",
+    "Places/Regions/The-Shimmering-Sands/The Shimmering Sands.md",
+    "assets/img/hand_scanner_shut.png",
+    "assets/img/hand_scanner_open.png",
+    "assets/img/laserRiflePal.jpg",
+    "History/Historical-Items",
+    "().md",
+    "assets/img/PostApocalypseLondon001_2039.jpg",
+    "assets/img/Shimmering-Sands.png",
+    "assets/img/Xocust-Mountains.png",
+    "assets/img/TheXocustWilderness.jpg",
+    "assets/img/ShadowBoard.png",
+    "assets",
+    "History/Historical-Factions",
+    "History",
+    "Tribes",
+    "People/Untitled",
+    "People",
+    "History/Events",
+    "Introduction/Welcome.md",
+    "Places/Regions/Xocust-Wilderness",
+    "Places/Regions/The-Shimmering-Sands",
+    "assets/img/FNV_Location_11021_2.jpg",
+    "Obsidian Notes/Syntax.md",
+    "create a link.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}
