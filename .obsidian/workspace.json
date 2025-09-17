@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "_posts/Tribes/2025-09-17-The_Children_of_The_Glow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "2025-09-17-The_Children_of_The_Glow"
             }
           }
         ]
@@ -171,14 +171,20 @@
   },
   "active": "045d663cd1a706a3",
   "lastOpenFiles": [
+    "_posts/Forces/2025-09-17-The_Glow.md",
+    "_site/2025/09/17/The_Glow.html",
+    "_site/2025/09/17/The_Children_of_The_Glow.html",
+    "_site/2025/09/17",
+    "_posts/Tribes/2025-09-17-The_Children_of_The_Glow.md",
+    "_posts/Forces",
+    "_posts/Tribes/2025-09-16-The_Curators.md",
+    "_posts/Places/Regions/Xocust-Wilderness/2025-09-16-Xocust_Mountain.md",
+    "_posts/Places/Regions/Xocust-Wilderness/2025-09-16-The_Xocust_Wilderness.md",
+    "_posts/Places/Regions/The-Shimmering-Sands/2025-09-16-The_Shimmering_Sands.md",
     "_posts/Introduction/2025-09-16-Welcome_to_Terra_AD.md",
+    "_posts/History/Historical-Items/2025-09-16-Artifacts_of_The_Ancients.md",
     "_posts/History/Historical-Factions/2025-09-16-The_Ancient_Ones.md",
     "_posts/History/Events/2025-09-16-The_Great_Collapse.md",
-    "_posts/History/Historical-Items/2025-09-16-Artifacts_of_The_Ancients.md",
-    "_posts/Places/Regions/The-Shimmering-Sands/2025-09-16-The_Shimmering_Sands.md",
-    "_posts/Places/Regions/Xocust-Wilderness/2025-09-16-The_Xocust_Wilderness.md",
-    "_posts/Places/Regions/Xocust-Wilderness/2025-09-16-Xocust_Mountain.md",
-    "_posts/Tribes/2025-09-16-The_Curators.md",
     "index.md",
     "_posts/Tribes/2025-09-16-The_Clan_Of_Cog.md",
     "_posts/Tribes/2025-09-16-The_Chosen_Zuu.md",
@@ -199,15 +205,8 @@
     "Places/Regions/Xocust-Wilderness/Xocust Mountain.md",
     "Places/Regions/Xocust-Wilderness/The Xocust Wilderness.md",
     "Places/Regions/The-Shimmering-Sands/The Shimmering Sands.md",
-    "Places/Regions/Xocust-Wilderness",
-    "Places/Regions/The-Shimmering-Sands",
-    "Places/Regions",
-    "Places",
     "History/Historical-Items/Artifacts of The Ancients.md",
     "History/Historical-Factions/The Ancient Ones.md",
-    "History/Events/The Great Collapse.md",
-    "_site/{{post_url.md",
-    "_site/Introduction/Welcome.md",
     "_site/assets/img/post-apocalyptic-lush.jpg",
     "_site/assets/img/multitool.jpg",
     "_site/assets/img/laserRiflePal.jpg",
