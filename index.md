@@ -1,11 +1,11 @@
 ---
-layout: home
+layout: page
 title: Home
 date: 2025_09_16
 ---
-# [Welcome to Terra A.D.]({{ site.baseurl }}/2025/09/16/Welcome_to_Terra_AD.html) Meatgrinder Documents
+# [Welcome to Terra A.D.]({{ site.baseurl }}/2025/09/16/Welcome_to_Terra_AD.html) Meat Grinder Documents
 
-Your go-to resource for Meat Grinder Tabletop players playing in Mutant Crawl Classics. Some of this is paraphrased from their rulebook, and some of this is work of my own. I'm expanding their system's campaign setting and will include only stats that are original. My goal here is not to plagiarize, but to expand upon, so I will also give credit to [the system (Mutant Crawl Classics) and Goodman Games](https://goodman-games.com/store/product/mutant-crawl-classics-role-playing-game-2/). It's really cool if you're into old school table top role playing, and definitely worth the price tag.
+A resource for Meat Grinder Tabletop players playing in Mutant Crawl Classics. Some of this is paraphrased from the MCC rulebook, and some of this is work of my own. I'm expanding their system's campaign setting and will include only stats that are original. My goal here is not to plagiarize, but to expand upon, so I will also give credit to [the system (Mutant Crawl Classics) and Goodman Games](https://goodman-games.com/store/product/mutant-crawl-classics-role-playing-game-2/). It's really cool if you're into old school table top role playing, and definitely worth the price tag. This information and campaign setting will remain free for the course of it's lifetime.
 
 ---
 ## History
@@ -29,11 +29,16 @@ Your go-to resource for Meat Grinder Tabletop players playing in Mutant Crawl Cl
 
 ---
 
-## Tribes
+## Archaic Alignments (Tribes)
 - [The Clan Of Cog]({{ site.baseurl }}/2025/09/16/The_Clan_Of_Cog.html)
 - [The Chozen Zuu]({{ site.baseurl }}/2025/09/16/The_Chosen_Zuu.html)
 - [The Curators]({{ site.baseurl }}/2025/09/16/The_Curators.html)
 - [The Children of The Glow]({{ site.baseurl }}/2025/09/17/The_Children_of_The_Glow.html)
+- [The Atomic Equinox]({{ site.baseurl }}/2025/09/17/The_Atomic_Equinox.html)
+- [The Holy Medicinal Order]({{ site.baseurl }}/2025/09/17/The_Holy_Medicinal_Order.html)
+- [The Gene Police]({{ site.baseurl }}/2025/09/17/The_Gene_Police.html)
+- [The Blessed Brotherhood (The Vile Brotherhood)]({{ site.baseurl }}/2025/09/17/The_Bless_Bros.html)
+- [The Technorabble]({{ site.baseurl }}/2025/09/17/The_Technorabble.html)
 
 ---
 
