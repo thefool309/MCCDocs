@@ -2,6 +2,14 @@
 title: The Xocust Mountain
 date: 2025_09_16
 layout: post
+tags:
+  - lore
+  - MCC
+  - MutantCrawlClassics
+  - roleplaying
+  - tabletop
+  - ttrpg
+  - places
 ---
 ![Xocust Mountain]({{ site.baseurl }}/assets/img/Xocust-Mountains.png)
 

@@ -2,6 +2,16 @@
 layout: post
 title: The Children of The Glow
 date: 2025_09_17
+tags:
+  - Archaic
+  - Alignments
+  - lore
+  - MCC
+  - MutantCrawlClassics
+  - roleplaying
+  - tabletop
+  - Tribes
+  - ttrpg
 ---
 Open to mutants, manimals, and plantients, but primarily composed of mutants, the Children of the Glow worship radiation as the divine personification of Fate. Members of this Archaic Alignment consider "[The Glow]({{ site.baseurl }}/2025/09/17/The_Glow.html)" to be the "Great Changer of Life." They revere the influence and judgments of "[The Glow]({{ site.baseurl }}/2025/09/17/The_Glow.html)" and respect it as the holy will of the universe. 
 

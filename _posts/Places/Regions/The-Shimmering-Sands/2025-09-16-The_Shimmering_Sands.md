@@ -2,6 +2,15 @@
 layout: post
 title: The Shimmering Sands
 date: 2025_09_16
+tags:
+  - places
+  - regions
+  - roleplaying
+  - tabletop
+  - MutantCrawlClassics
+  - MCC
+  - ttrpg
+  - lore
 ---
 ![The Shimmering Sands Desert]({{ site.baseurl }}/assets/img/Shimmering-Sands.png)
 

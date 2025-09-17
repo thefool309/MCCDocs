@@ -2,6 +2,15 @@
 title: The Xocust Wilderness
 layout: post
 date: 2025_09_16
+tags:
+  - lore
+  - MCC
+  - MutantCrawlClassics
+  - roleplaying
+  - tabletop
+  - ttrpg
+  - places
+  - regions
 ---
 ![The Xocust Wilderness]({{ site.baseurl }}/assets/img/TheXocustWilderness.jpg)
 The setting of Terra A.D. is mostly covered by rain forest, also known as The Xocust Wilderness. These are the lands known to the tribes to be the most forgiving. There are exceptions to this rule but a rain forest biome is expected across most of Terra A.D. Those of the tribal societies don't know anything beyond the wilderness aside from rumors brought in from the various seeker. As the world has attempted to repair itself the canopies of the rain forest have expanded creating The Xocust Wilderness.
