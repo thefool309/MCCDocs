@@ -3,7 +3,7 @@ title: The Great Collapse
 layout: post
 date: 2025_09_16
 ---
-# The Great Collapse
+
 The Great Collapse (A.K.A. The Great Disaster) is when the ancient ones society collapsed from their own hubris. In their great intelligence, they created massive empires with ancient magics, but in a lack of wisdom, much of this advancement was done in magical weapons. Eventually creating something that was capable of ending the world backfired, and ended the world. The exact cause of this is unknown to the vast majority of the world, and anyone who does know is not eager to share the information. 
 
 The rumors go on into many possibilities. While the simple folk of the world attribute it to ancient magic, there may be answers out there to help at least those who find them. The legends mention [The Shimmering Sands](_posts/Places/Regions/The-Shimmering-Sands/The Shimmering Sands) on the other side of [[2025-09-16-Xocust_Mountain]] as the origin of the disaster. This is however a very large desert area that covers 5000 sq miles. The tribes elders believe there may be an answer in the artifacts of [[2025-09-16-The_Ancient_Ones]].

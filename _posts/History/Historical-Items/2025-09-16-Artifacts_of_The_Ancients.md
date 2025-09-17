@@ -4,7 +4,6 @@ date: 2025_09_16
 layout: post
 ---
 
-# Artifacts of The Ancients
 There are many magic weapons that are scattered throughout the various ruins of [The Ancient Ones](_posts/History/Historical-Factions/2025-09-16-The_Ancient_Ones.md)
 ![A Lazer Rifle]({{ site.baseurl }}/assets/img/laserRiflePal.jpg)
 A Phenomenameter

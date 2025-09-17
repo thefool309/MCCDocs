@@ -4,7 +4,6 @@ layout: post
 date: 2025_09_16
 ---
 
-# Welcome to Terra A.D.
 ![Cover Image]({{ site.baseurl }}/assets/img/post-apocalyptic-lush.jpg)
 
 ## A Brief Overview
@@ -24,4 +23,4 @@ The weather composes of large amounts of rain, and thunderstorms. There are plac
 
 ## Player Information
 ### Overview of the Setting
-- **The Wasteland:** You find yourself in the remnants of a once great civilization. The landscape is a mix of mutated flora and fauna, ancient ruins, and bizarre technology left behind by [[2025-09-16-The_Ancient_Ones]].   
+- **The Wasteland:** You find yourself in the remnants of a once great civilization. The landscape is a mix of mutated flora and fauna, ancient ruins, and bizarre technology left behind by [The Ancient Ones]({{ site.baseurl }}/2025/09/16/The_Ancient_Ones.html).
