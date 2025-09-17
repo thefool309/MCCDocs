@@ -2,6 +2,17 @@
 title: Welcome to Terra AD
 layout: post
 date: 2025_09_16
+tags:
+  - lore
+  - MCC
+  - MutantCrawlClassics
+  - roleplaying
+  - tabletop
+  - ttrpg
+  - New
+  - Intro
+  - Introduction
+  - Welcome
 ---
 
 ![Cover Image]({{ site.baseurl }}/assets/img/post-apocalyptic-lush.jpg)

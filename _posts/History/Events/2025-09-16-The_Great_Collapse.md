@@ -2,6 +2,15 @@
 title: The Great Collapse
 layout: post
 date: 2025_09_16
+tags:
+  - History
+  - lore
+  - MCC
+  - MutantCrawlClassics
+  - roleplaying
+  - tabletop
+  - ttrpg
+  - Events
 ---
 
 The Great Collapse (A.K.A. The Great Disaster) is when the ancient ones society collapsed from their own hubris. In their great intelligence, they created massive empires with ancient magics, but in a lack of wisdom, much of this advancement was done in magical weapons. Eventually creating something that was capable of ending the world backfired, and ended the world. The exact cause of this is unknown to the vast majority of the world, and anyone who does know is not eager to share the information. 

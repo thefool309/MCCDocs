@@ -2,9 +2,18 @@
 title: Artifacts of The Ancients
 date: 2025_09_16
 layout: post
+tags:
+  - MCC
+  - lore
+  - MutantCrawlClassics
+  - roleplaying
+  - tabletop
+  - ttrpg
+  - Items
+  - History
 ---
 
-There are many magic weapons that are scattered throughout the various ruins of [The Ancient Ones](_posts/History/Historical-Factions/2025-09-16-The_Ancient_Ones.md)
+There are many magic weapons that are scattered throughout the various ruins of [The Ancient Ones](2025-09-16-The_Ancient_Ones.md)
 ![A Lazer Rifle]({{ site.baseurl }}/assets/img/laserRiflePal.jpg)
 A Phenomenameter
 

@@ -9,10 +9,11 @@ Your go-to resource for Meat Grinder Tabletop players playing in Mutant Crawl Cl
 
 ---
 ## History
+- ### Forces
+	- [The Glow]({{ site.baseurl }}/2025/09/17/The_Glow.html) 
+	- [The Ancient Ones]({{ site.baseurl }}/2025/09/16/The_Ancient_Ones.html)
 - ### Events
 	 - [The Great Collapse]({{ site.baseurl }}/2025/09/16/The_Great_Collapse.html)
-- ### Historical Factions
-	- [The Ancient Ones]({{ site.baseurl }}/2025/09/16/The_Ancient_Ones.html)
 - ### Items
     - [Artifacts of The Ancients]({{ site.baseurl }}/2025/09/16/Artifacts_of_The_Ancients.html)
 
@@ -32,6 +33,7 @@ Your go-to resource for Meat Grinder Tabletop players playing in Mutant Crawl Cl
 - [The Clan Of Cog]({{ site.baseurl }}/2025/09/16/The_Clan_Of_Cog.html)
 - [The Chozen Zuu]({{ site.baseurl }}/2025/09/16/The_Chosen_Zuu.html)
 - [The Curators]({{ site.baseurl }}/2025/09/16/The_Curators.html)
+- [The Children of The Glow]({{ site.baseurl }}/2025/09/17/The_Children_of_The_Glow.html)
 
 ---
 
