@@ -14,7 +14,7 @@ tags:
 ---
 ![The Shimmering Sands Desert]({{ site.baseurl }}/assets/img/Shimmering-Sands.png)
 
-A desert with an extremely high level of magic permeating in the sands. It's said it glows almost a faint green at night time. Said to be the center of [The Great Collapse](Introduction/Welcome to Terra AD#The Great Collapse) though this is mostly unconfirmed tribal myths. There is a lot of danger, and a lot of artifacts to be found in a place such as this. It is rumored that there is a slumbering artifact of the kind that caused The Great Collapse here. Somewhere the answers to the question "what caused the disaster?" are waiting for a brave soul capable of deciphering its secrets to uncover the truth of what happened.
+A desert with an extremely high level of magic permeating in the sands. It's said it glows almost a faint green at night time. Said to be the center of [The Great Collapse]({{ site.baseurl }}/2025/09/16/The_Great_Collapse.html) though this is mostly unconfirmed tribal myths. There is a lot of danger, and a lot of artifacts to be found in a place such as this. It is rumored that there is a slumbering artifact of the kind that caused The Great Collapse here. Somewhere the answers to the question "what caused the disaster?" are waiting for a brave soul capable of deciphering its secrets to uncover the truth of what happened.
 
 ## Ecology
 
