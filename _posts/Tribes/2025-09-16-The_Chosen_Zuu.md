@@ -21,3 +21,5 @@ This group is open only to manimals, The Chosen Zuu are nonetheless an egalitari
 **Benefits:** Merit-based rank in a para-military organization that is universally recognized among all alignment members. Shared materials resources and intelligence among members and allies.
 
 **Secret Sign:** A clenched right paw brought to the upper left torso, striking the chest twice, also used as a salute to superior officers.
+
+**Relations:** This tribe tends to get along well with other mutant tribes. They are one of the few tribes that can even get along with some pure strain humans. They don't get along well with [The Gene Police]({{ site.baseurl }}/2025/09/17/The_Gene_Police.html). They have even been known to send warriors into other tribes to root out what they believe to be Gene Police spies. They see this as "cleansing rotted ideals" from a tribe in grave danger. They tend to be a fairly friendly tribe and do trade with many of the other mutant tribes across the land.

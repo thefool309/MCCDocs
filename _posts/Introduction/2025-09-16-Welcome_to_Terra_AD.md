@@ -41,4 +41,4 @@ The weather composes of large amounts of rain, and thunderstorms. There are plac
 - **Survival and Exploration**: Your primary goals will be to explore the wasteland, uncover its secrets, and survive against the odds. Cooperation with each other, and good strategy will be key as you face the challenges that await in Terra A.D.
 
 ## Conclusion
-Get ready for a journey through a harsh and unpredictable wasteland. As you navigate this world, you will face significant challenges that will test your skills and force you to confront difficult moral choices. Welcome to Mutant Crawl Classics.
+	Get ready for a journey through a harsh and unpredictable wasteland. As you navigate this world, you will face significant challenges that will test your skills and force you to confront difficult moral choices. Welcome to Mutant Crawl Classics.
